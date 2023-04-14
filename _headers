@@ -1,6 +1,6 @@
 /*
   Strict-Transport-Security : max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy : default-src 'none'; connect-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; form-action 'none'; frame-ancestors 'self'; block-all-mixed-content; base-uri 'none'; manifest-src 'self'
+  Content-Security-Policy : default-src 'none'; connect-src 'self'; img-src 'self'; script-src 'sha256-YTEza4CA2qPCNGLfB6mKa5FjY8kjkO/K7nQxeJxVd9E='; style-src 'self'; form-action 'none'; frame-ancestors 'self'; block-all-mixed-content; base-uri 'none'; manifest-src 'self'
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   X-XSS-Protection : 0
@@ -14,7 +14,7 @@ https://:oll-trainer-samsepi0l.netlify.app/*
   X-Robots-Tag: noindex
 
 #/*.js
-#  Access-Control-Allow-Origin: *
+#  Access-Control-Allow-Origin: https://www.srihash.org/
 
 #/*.css
-#  Access-Control-Allow-Origin: *
+#  Access-Control-Allow-Origin: https://www.srihash.org/
