@@ -1,6 +1,6 @@
 /*
   Strict-Transport-Security : max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy : default-src 'none'; connect-src 'self'; img-src 'self'; script-src 'sha256-YTEza4CA2qPCNGLfB6mKa5FjY8kjkO/K7nQxeJxVd9E=' 'sha256-/xZ9n2TABNV42tzhUpySjjiW0l5J0qyd0sc+nTWAC08='; style-src 'self'; form-action 'none'; frame-ancestors 'self'; block-all-mixed-content; base-uri 'none'; manifest-src 'self'
+  Content-Security-Policy : default-src 'none'; connect-src 'self'; img-src 'self'; script-src 'sha256-YTEza4CA2qPCNGLfB6mKa5FjY8kjkO/K7nQxeJxVd9E=' 'sha256-/xZ9n2TABNV42tzhUpySjjiW0l5J0qyd0sc+nTWAC08=' 'sha256-ajz1GSNU9xYVrFEDSz6Xwg7amWQ/yvW75tQa1ZvRIWc='; style-src 'self'; form-action 'none'; frame-ancestors 'self'; block-all-mixed-content; base-uri 'none'; manifest-src 'self'
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   X-XSS-Protection : 0
