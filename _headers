@@ -13,8 +13,8 @@
 https://:oll-trainer-samsepi0l.netlify.app/*
   X-Robots-Tag: noindex
 
-#/*.js
-#  Access-Control-Allow-Origin: https://www.srihash.org
+/*.js
+  Access-Control-Allow-Origin: https://oll.samsepi0l.dev
 
-#/*.css
-#  Access-Control-Allow-Origin: https://www.srihash.org
+/*.css
+  Access-Control-Allow-Origin: https://oll.samsepi0l.dev
